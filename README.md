@@ -47,6 +47,7 @@ Every algorithm was first derived mathematically and then implemented manually (
 **Main Folder:** [1- Classification and Regression](https://github.com/Mohammad-Norizadeh-Cherloo/Machine-Learning-From-Scratch/tree/main/1-%20Classification%20and%20Regression)
 
 #### Parametric Classifiers
+![Naive Bayes](images/bayzian.jpg)
 - Naive Bayes / Bayesian Classifier
 - Maximum Likelihood
 - Euclidean Distance
@@ -55,11 +56,13 @@ Every algorithm was first derived mathematically and then implemented manually (
 📁 [Go to folder](https://github.com/Mohammad-Norizadeh-Cherloo/Machine-Learning-From-Scratch/tree/main/1-%20Classification%20and%20Regression/1-Parametric-Classifiers-Naive%20Baysian)
 
 #### K-Nearest Neighbors (KNN & Weighted KNN)
+![KNN](images/knn.png)
 - KNN and Weighted KNN for Classification and Regression
 
 📁 [Go to folder](https://github.com/Mohammad-Norizadeh-Cherloo/Machine-Learning-From-Scratch/tree/main/1-%20Classification%20and%20Regression/2-KNN-and-Weighted-KNN)
 
 #### Support Vector Machines & SVR
+![SVM](images/SVM-SVR.png)
 - Binary SVM (Hard-Margin & Soft-Margin)
 - Multi-class SVM (One-vs-One & One-vs-Rest)
 - Support Vector Regression (SVR)
@@ -69,7 +72,7 @@ Every algorithm was first derived mathematically and then implemented manually (
 ---
 
 ### 2. Ensemble Learning
-
+![ensemble](images/ensemble-learing.png)
 **Main Folder:** [2- Ensemble Learning](https://github.com/Mohammad-Norizadeh-Cherloo/Machine-Learning-From-Scratch/tree/main/2-%20Ensemble%20Learning)
 
 - [Voting](https://github.com/Mohammad-Norizadeh-Cherloo/Machine-Learning-From-Scratch/tree/main/2-%20Ensemble%20Learning/1-%20Voting)
@@ -80,7 +83,7 @@ Every algorithm was first derived mathematically and then implemented manually (
 ---
 
 ### 3. Dimensionality Reduction
-
+![Dimensionality Reduction](images/pca-lda.png)
 **Main Folder:** [3- Dimensionality Reduction](https://github.com/Mohammad-Norizadeh-Cherloo/Machine-Learning-From-Scratch/tree/main/3-Dimention%20Reduction)
 
 - [PCA](https://github.com/Mohammad-Norizadeh-Cherloo/Machine-Learning-From-Scratch/tree/main/3-Dimention%20Reduction/1-%20PCA)
@@ -89,7 +92,7 @@ Every algorithm was first derived mathematically and then implemented manually (
 ---
 
 ### 4. Clustering
-
+![clustering](images/clusstering.png)
 **Main Folder:** [4- Clustering](https://github.com/Mohammad-Norizadeh-Cherloo/Machine-Learning-From-Scratch/tree/main/4-Clustering)
 
 - [K-Means](https://github.com/Mohammad-Norizadeh-Cherloo/Machine-Learning-From-Scratch/tree/main/4-Clustering/1-Kmeans)
@@ -100,16 +103,49 @@ Every algorithm was first derived mathematically and then implemented manually (
 
 ### Practical Projects Summary
 
-| Project                                      | Algorithms Used                          |
-|---------------------------------------------|------------------------------------------|
-| Iris Flower Classification                  | Parametric, KNN, SVM, Ensembles          |
-| Breast Cancer Classification (UCI)          | Binary SVM, Stacking                     |
-| Air Quality Prediction (UCI)                | KNN / WKNN, SVR                          |
-| Ankle Joint Angle Estimation from sEMG      | SVR                                      |
-| Neural Spike Sorting                        | K-Means, FCM, G-Means + PCA              |
-| Medical Image Tumor Extraction              | K-Means, Fuzzy C-Means                   |
-| Color Image Quantization & Segmentation     | K-Means                                  |
+Here are the main practical projects included in this repository:
 
+---
+
+#### 1. Iris Flower Classification
+![Iris Classification](images/iris.png)
+
+**Algorithms used:** Parametric Classifiers, KNN, Weighted KNN, SVM, Ensemble methods
+
+---
+
+#### 2. Breast Cancer Classification (UCI Dataset)
+![Breast Cancer](images/cancer.png)
+
+**Algorithms used:** Binary SVM, Stacking Ensemble
+
+---
+
+#### 3. Air Quality Prediction (UCI Dataset)
+![Air Quality](images/air%20quality.PNG)
+
+**Algorithms used:** KNN / Weighted KNN Regression, Support Vector Regression (SVR)
+
+---
+
+#### 4. Ankle Joint Angle Estimation from sEMG
+![sEMG Ankle Angle](images/Myoelectric_Control_of_Ankle_Exoskeleton.jpeg)
+
+**Algorithms used:** Support Vector Regression (SVR)
+
+---
+
+#### 5. Neural Spike Sorting
+![Spike Sorting](images/spike-sorting.png)
+
+**Algorithms used:** K-Means, Fuzzy C-Means, G-Means + PCA
+
+---
+
+#### 6. Medical Image Tumor Extraction
+![Tumor Extraction](images/image%20segmentation%20.png)
+
+**Algorithms used:** K-Means, Fuzzy C-Means
 ---
 
 ### Full Video Courses
