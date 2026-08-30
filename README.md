@@ -5,7 +5,8 @@ Educator & Researcher in Machine Learning, Biomedical Signal Processing, and Bra
 
 [![Website](https://img.shields.io/badge/Website-onlinebme.com-blue)](https://onlinebme.com/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-green)](https://scholar.google.com/citations?user=fIKpYm8AAAAJ)
-
+[![YouTube](https://img.shields.io/badge/YouTube-@Mrcherloo-red)](https://www.youtube.com/@Mrcherloo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mohammad-norizadeh-cherloo/)
 ---
 
 ### About This Repository
