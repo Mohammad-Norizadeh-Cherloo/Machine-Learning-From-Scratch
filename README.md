@@ -1,7 +1,7 @@
 # Machine Learning & Pattern Recognition from Scratch (MATLAB)
 
 **Author:** Mohammad Norizadeh Cherloo  
-Educator & Researcher in Machine Learning, Biomedical Signal Processing, and Brain-Computer Interfaces
+Educator & Researcher in Machine Learning, Deep Learning, Neural Decoding, Biomedical Signal Processing, and Brain-Computer Interfaces
 
 [![Website](https://img.shields.io/badge/Website-onlinebme.com-blue)](https://onlinebme.com/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-green)](https://scholar.google.com/citations?user=fIKpYm8AAAAJ)
