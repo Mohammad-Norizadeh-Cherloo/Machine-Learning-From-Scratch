@@ -165,12 +165,8 @@ All mathematical derivations, whiteboard explanations, and step-by-step coding s
 
 ---
 
----
-
-An old man once told me:  
-*"If you want to drive more easily in a city, first walk through that city on foot!"*
-
-The same is true in Artificial Intelligence.  
-If you want to use or improve algorithms more effectively, you should first implement them from scratch. Only then will you gain a deep and clear understanding of the algorithm and the problem it solves.
-
-— Mohammad Norizadeh Cherloo
+> **“An old man once told me if you want to drive more easily in a city, first walk through that city on foot.”**
+>
+> The same is true in Artificial Intelligence. If you want to use or improve algorithms more effectively, first implement them from scratch. Only then will you gain a deeper understanding of the algorithm and the problem it solves.
+>
+> — Mohammad Norizadeh Cherloo
